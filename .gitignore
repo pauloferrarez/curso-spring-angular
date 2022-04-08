@@ -1,0 +1,20 @@
+# Maven
+target/
+
+# Netbeans
+nb-configuration.xml
+*.log
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+#VSCode
+.vscode/
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+*.hprof
